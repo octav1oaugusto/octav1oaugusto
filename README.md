@@ -1,6 +1,5 @@
 <div>
-  <h2>Olá, meu nome é Octávio!</h2>
-  <h3>E essas são as minhas informações pessoais e profissionais:  <h3/>
+  <h2>Olá, meu nome é Octávio Augusto!</h2>
 </div>
 
 <div>
